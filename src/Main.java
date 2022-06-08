@@ -19,6 +19,8 @@ public class Main {
     }
     public void mf (){
         System.out.println();
+        int c;
     }
+
 
 }
