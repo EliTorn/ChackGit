@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int x =80 ;
+        int y= 30;
 
         System.out.println(x);
     }
@@ -13,4 +14,8 @@ public class Main {
     public static void P(){
         System.out.println("hii waht's up man ");
     }
+    public static void MP(){
+        System.out.println("hii at both");
+    }
+
 }
