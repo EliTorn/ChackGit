@@ -10,4 +10,7 @@ public class Main {
     public static void R(int m){
         System.out.println("Hii what's up man ");
     }
+    public static void op (){
+        System.out.println();
+    }
 }
