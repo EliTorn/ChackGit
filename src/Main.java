@@ -11,8 +11,8 @@ public class Main {
     public static void R(int m){
         System.out.println("Hii what's up man ");
     }
-    public static void P(){
-        System.out.println("hii waht's up man ");
+    public static void op (){
+        System.out.println();
     }
     public static void MP(){
         System.out.println("hii at both");
