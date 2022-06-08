@@ -7,4 +7,9 @@ public class Main {
     public static void M(int x){
         System.out.println("a ");
     }
+
+    public static void b(){
+        System.out.println();
+    }
+
 }
