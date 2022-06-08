@@ -17,5 +17,8 @@ public class Main {
     public static void MP(){
         System.out.println("hii at both");
     }
+    public void mf (){
+        System.out.println();
+    }
 
 }
